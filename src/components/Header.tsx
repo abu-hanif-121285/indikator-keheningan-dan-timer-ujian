@@ -6,7 +6,7 @@ import { Loader2, Maximize, Mic, MicOff, Minimize, Settings } from "lucide-react
 import type { MicState } from "../types";
 import { cn } from "../utils/cn";
 import { formatClock, formatDate } from "../hooks/useNow";
-import wahLogo from "../assets/wah-logo.png";
+import wahLogo from "../assets/Logo WAH.png";
 
 interface Props {
   now: Date;
